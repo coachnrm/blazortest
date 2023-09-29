@@ -61,6 +61,8 @@
         /* Never collapse the sidebar for wide screens */
         display: block;
     }
+
+    
     
     .nav-scrollable {
         /* Allow sidebar to scroll for tall menus */

@@ -11,8 +11,12 @@
     }
 
 .media-img-wrapper {
-    display: flex;
-    align-items: flex-start;
+    width: 200px;
+    text-align: center;
+}
+
+.price {
+    color:green;
 }
 
 .page-selection {

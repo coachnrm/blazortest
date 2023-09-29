@@ -37,6 +37,7 @@ main {
     }
 
 @media (max-width: 640.98px) {
+
     .top-row.auth {
         justify-content: space-between;
     }
@@ -50,7 +51,6 @@ main {
     .page {
         flex-direction: row;
     }
-
 
     .top-row {
         position: sticky;
